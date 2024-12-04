@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/pomodoroDeploy/static/css/main.3d7dc872.css",
+    "main.js": "/pomodoroDeploy/static/js/main.d67d10e2.js",
+    "static/media/Alarm-clock- sound.mp3": "/pomodoroDeploy/static/media/Alarm-clock- sound.c6a8bf012b1c2a7d50a3.mp3",
+    "index.html": "/pomodoroDeploy/index.html",
+    "main.3d7dc872.css.map": "/pomodoroDeploy/static/css/main.3d7dc872.css.map",
+    "main.d67d10e2.js.map": "/pomodoroDeploy/static/js/main.d67d10e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d7dc872.css",
+    "static/js/main.d67d10e2.js"
+  ]
+}
