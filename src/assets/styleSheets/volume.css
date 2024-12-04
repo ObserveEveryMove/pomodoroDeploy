@@ -1,0 +1,24 @@
+.volumeOuter {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 2%;
+  border-radius: 20%;
+}
+
+.greenvol {
+  border: 3px solid rgb(56, 233, 56);
+  margin: 5px;
+  box-shadow: 1px 1px rgb(16, 245, 119), 0.25em 0.25em 5em white;
+  border-radius: 20%;
+  padding: 2%;
+}
+
+.redvol {
+  border: 3px solid tomato;
+  margin: 5px;
+  box-shadow: 1px 1px rgb(252, 5, 5), 0.25em 0.25em 5em red;
+  border-radius: 20%;
+  padding: 2%;
+}

@@ -1,0 +1,92 @@
+.timeDisplay {
+  font-family: monospace;
+}
+
+.timeOuterWork {
+  border: 4px solid orange;
+  border-radius: 20%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-left: 30%;
+  margin-right: 30%;
+  padding: 5%;
+  background-color: rgb(32, 122, 240);
+  box-shadow: 1px 1px rgb(26, 179, 250), 0.25em 0.25em 5em white;
+}
+
+.timeOuterWorkGreen {
+  border: 4px solid lawngreen;
+  box-shadow: 1px 1px rgb(16, 245, 119), 0.25em 0.25em 5em white;
+  animation: 6s linear slidein;
+  z-index: 2;
+  border-radius: 20%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-left: 30%;
+  margin-right: 30%;
+  padding: 5%;
+  background-color: rgb(32, 122, 240);
+}
+
+.timeOuterBreakTransition {
+  border: 4px solid lawngreen;
+  box-shadow: 1px 1px rgb(16, 245, 119), 0.25em 0.25em 5em white;
+  animation: 6s linear slidein;
+  z-index: 2;
+  border-radius: 20%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-left: 30%;
+  margin-right: 30%;
+  padding: 5%;
+  background-color: rgb(15, 224, 60);
+}
+
+@keyframes slidein {
+  0% {
+    opacity: 75%;
+  }
+  25% {
+    opacity: 50%;
+  }
+
+  50% {
+    opacity: 0%;
+  }
+  75% {
+    opacity: 50%;
+  }
+
+  100% {
+    opacity: 75%;
+  }
+}
+
+.timeOuterBreak {
+  border: 4px solid lightgreen;
+  box-shadow: 1px 1px rgb(16, 245, 119), 0.25em 0.25em 5em white;
+  border-radius: 20%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-left: 30%;
+  margin-right: 30%;
+  padding: 5%;
+  background-color: rgb(15, 224, 60);
+}
+
+.orangeDisplay {
+  border: 5px solid orange;
+}
+
+.switch {
+  animation: 2s rotate linear;
+  font-size: 150%;
+}

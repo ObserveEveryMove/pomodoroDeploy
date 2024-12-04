@@ -1,0 +1,38 @@
+.settingsCont {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    
+}
+
+.settingsOuter {
+    background-color: rgb(32, 122, 240);
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+    border-radius: 20%;
+    border: 2px solid orange;
+    box-shadow:
+    1px 1px rgb(26, 179, 250),
+    .25em .25em 5em white;
+   
+}
+
+.nightModeSettingsOuter{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+    border-radius: 20%;
+    border: 2px solid orange;
+    box-shadow:
+    1px 1px rgb(26, 179, 250),
+    .25em .25em 5em white;
+}
+
+.alarmBtn {
+    font-size: 200%;
+    background: none;
+    border: none;
+}

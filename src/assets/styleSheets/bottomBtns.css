@@ -1,0 +1,40 @@
+.bottomOuter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.play {
+  font-size: 300%;
+  background: none;
+  border: none;
+}
+.pause {
+  font-size: 250%;
+  background: none;
+  border: none;
+}
+.hidePlay {
+  display: none;
+}
+
+.hidePause {
+  display: none;
+}
+.restart {
+  font-size: 350%;
+  background: none;
+  border: none;
+}
+.nightBtnPlay {
+  font-size: 300%;
+  background: none;
+  border: none;
+  color: rgb(32, 122, 240);
+}
+
+.nightBtnRestart {
+  font-size: 350%;
+  background: none;
+  border: none;
+  color: rgb(32, 122, 240);
+}

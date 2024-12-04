@@ -1,0 +1,18 @@
+.themeOuter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 3%;
+}
+
+.themeBtn {
+  background: none;
+  border: none;
+  font-size: 150%;
+}
+
+.nightModeBtn {
+  background: none;
+  border: none;
+  font-size: 150%;
+}

@@ -1,0 +1,22 @@
+.breakOuter {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.breakBtns {
+  display: flex;
+}
+
+.breakDown {
+  font-size: 250%;
+  background: none;
+  border: none;
+}
+
+.breakUp {
+  font-size: 250%;
+  background: none;
+  border: none;
+}

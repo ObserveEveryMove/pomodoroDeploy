@@ -1,0 +1,31 @@
+.sessionOuter {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.sessionBtns {
+  display: flex;
+  margin: 2%;
+}
+
+.sessionDown {
+  font-size: 250%;
+  background: none;
+  border: none;
+}
+
+.sessionUp {
+  font-size: 250%;
+  background: none;
+  border: none;
+}
+
+.hide {
+  display: none;
+}
+
+.workBreakNight {
+  color: rgb(122, 170, 233);
+}
